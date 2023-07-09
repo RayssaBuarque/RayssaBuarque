@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+  Hello World 👋
+</h1>
 
 <!--
 **RayssaBuarque/RayssaBuarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
