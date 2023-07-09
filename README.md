@@ -12,8 +12,9 @@
   Front-End Developer • Cursando Técnico em Desenvolvimento de Sistemas
 </h3>
 
-<a align="center" href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
-
+<div align="center">
+<a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+</div>div>
 <!--
 **RayssaBuarque/RayssaBuarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
