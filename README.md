@@ -9,12 +9,8 @@
 -->
 
 <h3 align="center">
-  Front-End Developer
+  Front-End Developer • Cursando Técnico em Desenvolvimento de Sistemas
 </h3>
-
-<h4 align="center">
-  Cursando Técnico em Desenvolvimento de Sistemas
-</h4>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
