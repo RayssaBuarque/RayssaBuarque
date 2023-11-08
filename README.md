@@ -24,7 +24,7 @@
   
 <!--![MyStats](https://github-readme-stats.vercel.app/api?username=rayssabuarque&show_icons=true&theme=gruvbox)-->
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssabuarque&hide=javascript,css,scss,html&theme=gruvbox)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssabuarque&layout=compact&theme=gruvbox)
 </div>
 
 <!--
