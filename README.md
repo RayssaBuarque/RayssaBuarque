@@ -15,7 +15,7 @@
 <!--My Socials-->
 <div align="center">
 <a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=EBD03E&amp;color:FFF" alt="Gmail"></a>
+<a href="mailto:rayssa.bmalheiros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=EBD03E&amp;color:FFF" alt="Gmail"></a>
 </div>
 
 <br>
