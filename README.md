@@ -21,9 +21,12 @@
 <!-- My Stats-->
 <div align="center">
 
+<div style = "display: flex;">
+  
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssabuarque&hide=javascript,css,scss,html&theme=gruvbox)
 
 ![MyStats](https://github-readme-stats.vercel.app/api?username=rayssabuarque&show_icons=true&theme=gruvbox)
+</div>
 </div>
 
 <!--
