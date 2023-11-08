@@ -12,18 +12,19 @@
   Front-End Developer • Cursando Técnico em Desenvolvimento de Sistemas
 </h3>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
-</div>
-
 <br>
 
 <!-- My Stats-->
 <div align="center">
   
-![MyStats](https://github-readme-stats.vercel.app/api?username=rayssabuarque&show_icons=true&theme=gruvbox)
+<!--![MyStats](https://github-readme-stats.vercel.app/api?username=rayssabuarque&show_icons=true&theme=gruvbox)-->
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssabuarque&hide=javascript,css,scss,html&theme=gruvbox)
+</div>
+
+<!--My Socials-->
+<div align="center">
+<a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 </div>
 
 <!--
