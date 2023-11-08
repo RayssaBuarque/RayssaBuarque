@@ -9,13 +9,13 @@
 -->
 
 <h3 align="center">
-  Front-End Developer • Cursando Técnico em Desenvolvimento de Sistemas <a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+  Front-End Developer • Cursando Técnico em Desenvolvimento de Sistemas
 </h3>
 
-<!--My Socials
+<!--My Socials-->
 <div align="center">
 <a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
-</div>-->
+</div>
 
 <br>
 
