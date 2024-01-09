@@ -8,9 +8,7 @@
 </div>
 -->
 
-<h3 align="center">
-  Front-End Developer • Técnico em Desenvolvimento de Sistemas
-</h3>
+### Front-End Developer • Técnico em Desenvolvimento de Sistemas
 
 Sou técnica formada em Desenvolvimento de Sistemas na ETEC, apaixonada por programação!
 
