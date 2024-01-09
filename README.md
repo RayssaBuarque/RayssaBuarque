@@ -17,7 +17,7 @@ Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Si
 
 <!--My Socials-->
 <div align="center">
-  ## Entre em contato!
+  <h2>Entre em contato:</h2> 
   
 <a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 </div>
