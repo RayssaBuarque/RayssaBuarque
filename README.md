@@ -7,7 +7,7 @@
 </div>-->
 
 
-## Front-End Developer • Técnico em Desenvolvimento de Sistemas
+### Front-End Developer • Técnico em Desenvolvimento de Sistemas
 
 Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Sistemas da ETEC e sou apaixonada por programação!
 
@@ -17,7 +17,7 @@ Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Si
 
 <!--My Socials-->
 <div align="center">
-  <h2>Entre em contato:</h2> 
+  <h3>Entre em contato:</h3> 
   
 <a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 </div>
