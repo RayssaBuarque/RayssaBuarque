@@ -9,8 +9,14 @@
 -->
 
 <h3 align="center">
-  Front-End Developer • Cursando Técnico em Desenvolvimento de Sistemas
+  Front-End Developer • Técnico em Desenvolvimento de Sistemas
 </h3>
+
+Sou técnica formada em Desenvolvimento de Sistemas na ETEC, apaixonada por programação!
+
+- ☁️ Atualmente estudando AWS
+- 🤖 Cursando programação Python no programa PAIDEIA - USP
+- 📌 Desenvolvendo projetos Front-End por aqui
 
 <!--My Socials-->
 <div align="center">
