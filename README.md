@@ -2,15 +2,14 @@
   Hello World 👋
 </h1>
 
-<!--
-<div align="center">
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-</div>
--->
+<!--<div align="center">
+   <img height="380em" src=""/>
+</div>-->
+
 
 ### Front-End Developer • Técnico em Desenvolvimento de Sistemas
 
-Sou técnica formada em Desenvolvimento de Sistemas na ETEC, apaixonada por programação!
+Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Sistemas da ETEC e sou apaixonada por programação!
 
 - ☁️ Atualmente estudando AWS
 - 🤖 Cursando programação Python no programa PAIDEIA - USP
@@ -32,18 +31,3 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssabuarque&layout=compact&theme=gruvbox)
 </div>
-
-<!--
-**RayssaBuarque/RayssaBuarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
