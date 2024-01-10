@@ -35,9 +35,9 @@ Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Si
 ### Entre em contato: 
 <a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 
+### My Stats
 
-<br>
-
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssabuarque&layout=compact&theme=gruvbox)
 
 
 
@@ -51,5 +51,4 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![MyStats](https://github-readme-stats.vercel.app/api?username=rayssabuarque&show_icons=true&theme=gruvbox)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssabuarque&layout=compact&theme=gruvbox)
 </div>-->
