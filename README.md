@@ -18,7 +18,7 @@ Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Si
 
 ### Tecnologias conhecidas:
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,angular,ts,aws,git,mysql,arduino,py&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,angular,react,ts,aws,git,mysql,arduino,py&theme=dark&perline=6)](https://skillicons.dev)
 <!--<div style="display:flex; gap: 5px">
 <img height="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git Icon">
 <img height="40px" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular Icon">
