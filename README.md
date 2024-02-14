@@ -18,7 +18,8 @@ Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Si
 
 ### Tecnologias conhecidas:
 
-<div style="display:flex; gap: 5px">
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,angular,arduino,aws,git,mysql,py,ts&theme=dark&perline=5)](https://skillicons.dev)
+<!--<div style="display:flex; gap: 5px">
 <img height="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git Icon">
 <img height="40px" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular Icon">
 <img height="40px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon">
@@ -29,7 +30,7 @@ Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Si
 <img height="40px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySql Icon">
 <img height="40px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS Icon">
 <img height="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino Icon">
-</div>
+</div>-->
 
 <!--My Socials-->
 ### Entre em contato: 
