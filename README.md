@@ -8,7 +8,7 @@
 
 ### Front-End Developer • Técnico em Desenvolvimento de Sistemas
 
-Olá! Meu nome é Rayssa, sou formada no curso Técnico em Desenvolvimento de Sistemas da ETEC e sou apaixonada por programação!
+Sou uma estudante de tecnologia apaixonada por hackathons e maratonas de programação, esse é meu espaço para estudos e desenvolvimento de projetos 🥰
 
 - ☁️ Atualmente estudando AWS
 - 🤖 Cursando programação Python no programa PAIDEIA - USP
