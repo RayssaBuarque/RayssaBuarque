@@ -6,10 +6,12 @@
 </div>-->
 
 
-### Front-End Developer • Técnico em Desenvolvimento de Sistemas
+### Front-End Developer 
 
 Sou uma estudante de tecnologia apaixonada por hackathons e maratonas de programação, esse é meu espaço para estudos e desenvolvimento de projetos 🥰
 
+- 👩‍💻 Cursando Sistemas de Informação na USP
+- 🎓 Formada em Desenvolvimento de Sistemas na ETEC
 - ☁️ Atualmente estudando AWS
 - 🤖 Cursando programação Python no programa PAIDEIA - USP
 - 📌 Desenvolvendo projetos Front-End por aqui
