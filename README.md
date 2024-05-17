@@ -13,7 +13,7 @@ Sou uma estudante de tecnologia apaixonada por hackathons e maratonas de program
 - 👩‍💻 Cursando Sistemas de Informação na USP
 - 🎓 Formada em Desenvolvimento de Sistemas na ETEC
 - ☁️ Atualmente estudando AWS
-- 🤖 Cursando programação Python no programa PAIDEIA - USP
+- 🤖 Alumni do programa PAIDEIA (programação Python) - USP
 - 📌 Desenvolvendo projetos Front-End por aqui
 
 
