@@ -14,6 +14,7 @@ Sou uma estudante de tecnologia apaixonada por hackathons e maratonas de program
 - 🎓 Formada em Desenvolvimento de Sistemas na ETEC
 - ☁️ Atualmente estudando AWS
 - 🤖 Alumni do programa PAIDEIA (programação Python) - USP
+- 🚺 Girls Who Code Alumni 2022
 - 📌 Desenvolvendo projetos Front-End por aqui
 
 
