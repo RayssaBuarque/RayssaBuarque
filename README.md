@@ -1,57 +1,38 @@
-# Hello World 👋 Eu sou a Rayssa!
+# Hello World 👋 
 
-
-<!--<div align="center">
-   <img height="380em" src=""/>
-</div>-->
-
-
-### Front-End Developer 
+Eu sou a Rayssa!
 
 Sou uma estudante de tecnologia apaixonada por hackathons e maratonas de programação, esse é meu espaço para estudos e desenvolvimento de projetos 🥰
 
-- 👩‍💻 Cursando Sistemas de Informação na USP
-- 🎓 Formada em Desenvolvimento de Sistemas na ETEC
+- 🤩 Front-End Developer 
+- 👩‍💻 Cursando Sistemas de Informação
+- 🎓 Formada em Desenvolvimento de Sistemas
 - ☁️ Atualmente estudando AWS
-- 🤖 Alumni do programa PAIDEIA (programação Python) - USP
 - 🚺 Girls Who Code Alumni 2022
-- 📌 Desenvolvendo projetos Front-End por aqui
-
-
-### Tecnologias conhecidas:
-
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,angular,ts,react,aws,git,mysql,arduino,py&theme=dark&perline=6)](https://skillicons.dev)
-<!--<div style="display:flex; gap: 5px">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git Icon">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular Icon">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript Icon">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML Icon">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS Icon">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python Icon">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySql Icon">
-<img height="40px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS Icon">
-<img height="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino Icon">
-</div>-->
 
 <!--My Socials-->
-### Entre em contato: 
-<a href="https://www.linkedin.com/in/rayssabuarque/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://www.linkedin.com/in/rayssabuarque/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0a66c2?style=for-the-badge&logoColor=white&logo=llinkedinwhite"  
+    />
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/746470" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Beecrowd-662382?style=for-the-badge&logoColor=white&logo=beecrowd%20white" />
+  </a>
+  <a href="https://leetcode.com/u/rayszae/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Leetcode-eba340?style=for-the-badge&logoColor=white&logo=leetcode" />
+  </a>
+</div>
 
-### My Stats
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssabuarque&layout=compact&theme=gruvbox)
+### 📊 My Stats
+<div align="center" style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayssabuarque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayssabuarque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
 
 
-
-
-
-<!-- My Stats
-https://github.com/anuraghazra/github-readme-stats
--->
-
-<!--<div align="center">
-
-![MyStats](https://github-readme-stats.vercel.app/api?username=rayssabuarque&show_icons=true&theme=gruvbox)
-
-</div>-->
+### 🛠️ Linguagens e Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,ts,html,css,angular,react&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,aws,mysql,postgresql,prisma,arduino,git&theme=dark&perline=15)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,c,js,ts,html,css,angular,react,aws,mysql,postgresql,arduino,nodejs,prisma,git&theme=dark&perline=15)](https://skillicons.dev) -->
