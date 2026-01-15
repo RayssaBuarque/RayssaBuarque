@@ -20,7 +20,7 @@ Boas vindas ao meu espaço para desenvolvimento de projetos pessoais! Nestes rep
 
 - **Desenvolvedora** | Web-Dev, Fullstack, Produtos e Automações, *4+ anos de experiência*
 - **Estudante de Tecnologia** | Sistemas de Informação *@USP* - Desenvolvimento de Sistemas *@ETEC*
-- **Skills** | Programação, Resolução de Problemas, Desenvolvimento de Sistemas, Comunicação
+- **Skills** | Programação, Resolução de Problemas, Desenvolvimento de Sistemas, Comunicação, Data & Analytics
 
 
 ## 🛠️ Main Stack:
