@@ -33,7 +33,7 @@ Boas vindas ao meu espaço para desenvolvimento de projetos pessoais! Nestes rep
 ![C](https://img.shields.io/badge/-C-393330?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-Java-393330?style=for-the-badge&logo=java)
 
-## ⭐ Destaques:
+<-- ## ⭐ Destaques:
 
 - **Game Dev** as a hobbie
 - **Educadora** | Voluntária em programas de **educação** e **inclusão feminina em STEM**
@@ -50,4 +50,4 @@ Boas vindas ao meu espaço para desenvolvimento de projetos pessoais! Nestes rep
         Aplicativo Ártemis (Social) - Developer, Product Design
 
     - **Semifinal Nacional** | Desafio Liga Jovem  
-     BookShire (Education Tech) - Fullstack Development, Product Design
+     BookShire (Education Tech) - Fullstack Development, Product Design -->
