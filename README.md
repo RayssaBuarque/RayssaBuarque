@@ -1,4 +1,4 @@
-# Rayssa Buarque | Web Dev & Data Analyst Intern @Itaú Unibanco
+# Rayssa Buarque | Dev & Data Analyst Intern @Itaú Unibanco
 <!--My Socials-->
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/rayssabuarque/" target="_blank">
